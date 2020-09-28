@@ -1,2 +1,2 @@
 # JavaGame
-Shameless ripoff of Realm of the Mad God
+Shameless ripoff of the Realm of the Mad God
